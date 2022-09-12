@@ -1,0 +1,26 @@
+{
+  "name": "react-headless-palette",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgarrovillo/react-headless-palette.git"
+  },
+  "keywords": [
+    "react",
+    "cmdk",
+    "palette",
+    "command",
+    "command-palette"
+  ],
+  "author": "Christian Garrovillo <hello@cgarrovillo.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cgarrovillo/react-headless-palette/issues"
+  },
+  "homepage": "https://github.com/cgarrovillo/react-headless-palette#readme"
+}
